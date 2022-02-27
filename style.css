@@ -1,0 +1,21 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    margin: 2% auto;
+
+}
+
+.col {
+    height: 100px;
+    width: 100px;
+    flex: 1;
+    background-color: aqua;
+    margin: 20px 20px;
+    text-align: center;
+
+}
